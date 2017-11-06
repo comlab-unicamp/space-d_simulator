@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src=https://github.com/comlab-unicamp/space-d_simulator/blob/master/misc/logo_space-d.svg> <br>
+<img src=https://github.com/comlab-unicamp/space-d_simulator/blob/master/misc/logo_space-d.png> <br>
 <h1 align="center">A simulation tool for space-division multiplexing elastic optical networks<h1>
 </p> 
   
