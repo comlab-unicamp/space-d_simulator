@@ -1,0 +1,17 @@
+package util;
+
+public enum TipoToken {
+
+
+	//SIMBOLOS
+	TK_IFEM,
+	TK_COLCHETE_ABRIR,
+	TK_COLCHETE_FECHAR,
+	TK_PONTO_VIRGULA,
+	TK_FINAL_ARQUIVO,
+
+	TK_DESCONHECIDO, TK_NUM,
+
+
+
+}
