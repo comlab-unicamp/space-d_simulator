@@ -11,5 +11,6 @@ The dynamics of the system is represented by the event chaining. The events are 
 
 The events are connection requests to connect source-destination pairs of nodes in the network. The network is managed by the Control Plane, which checks if there are enough resources to accomodate all requirements before to install each connection request in the network. 
 
+This project was supported by CNPq and by FAPESP grant 2015/04382-0.
 
   
